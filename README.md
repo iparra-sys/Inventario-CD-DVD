@@ -9,7 +9,7 @@ Sistema de inventario para una tienda de CD/DVD en Python. Permite registrar pro
 - Implementar operaciones CRUD y búsqueda de productos.
 
 ## 🛠 Tecnologías
-- Python 3.x
+- Python 
 - Tkinter
 - SQLite
 
